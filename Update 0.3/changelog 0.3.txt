@@ -1,0 +1,351 @@
+This was supposed to be update 0.2.1; a minor upgrade/QoL update involving a revamp of all the modpack's config files.
+However, after going a bit overboard with experimentation I've decided to just release this as the 0.3 update, 
+focusing on overhauling the visuals of some blocks, adding immersive particle effects and filling in some QoL inconsistencies.
+I hope you enjoy the update!
+
+
+
+~~~Fabric Waystones (Folder)~~~
+
+- Increased "cost_per_block_distance" from 0.0 to 1.0 as a test to see what the variable changes [line 13]
+
+- Added cooldowns involving using a Waystone when getting hurt (600 ticks or 30 seconds) [line 29]
+
+- Added cooldown to Pocket Wormhole (20 minutes) [line 31]
+
+- Added cooldown to Abyss Watcher (10 minutes) [line 30]
+
+- Added cooldown to Void Totem (20 minutes) [line 33]
+
+- Permission level to break waystone's has been changed from ANYONE to OWNER [line 26]
+
+
+~~~Inventory Move (Folder)~~~
+
+__unrecognized.json__
+
+- removed the ability to move during multiple screens [line 14, line 15, line 22, line 23, line 25, line 26]
+
+__vanilla.json__
+
+- removed the ability to move during a specific screen [line 24]
+
+
+~~~Villager Names (Folder)~~~
+
+- Added the custom names Austin, Caerulean, Valerian, Michele, Smurda, Bobbie, and Lyef
+
+
+~~~Yungs Extras (Folder)~~~
+
+- Increased chance for gold block to spawn at the bottom of a well (8%) [line 4]
+
+- Added the chance for minecraft:diamond_ore to spawn at the bottom of a well (5%) [line 6]
+
+- Added the chance for minecraft:diamond_block to spawn at the bottom of a well (1%) [line 7]
+
+
+~~~AdventureZ (.json5)~~~
+
+- Increased chance for the Summoner mob to spawn during thunder storms (weight from 4 to 5) [line 10]
+
+- Increased chance for the Blaze Guardian to spawn (weight from 1 to 2) [line 11]
+
+- Decreased chance for Orcs to spawn (weight from 30 to 22) [line 13]
+
+- Increased chance for Mammoths to spawn (weight from 1 to 2) [line 14]
+
+- Decreased chance for Iguanas to spawn (weight from 10 to 8) [line 16]
+
+- Increased chance for Desert Rhino to spawn (weight from 1 to 2) [line 19]
+
+- Desert Rhinos spawn at a 1 to 2 ratio around desert wells [line 21]
+
+- Increased chance for Shamans to spawn (weight from 1 to 2) [line 22]
+
+- Increased chance for Ender Warthog to spawn (weight from 1 to 2) [line 24]
+
+
+~~~Spice Of Fabric (.hjson)~~~
+
+- Increased scaling of food loss from eating the same food repeatedly (0.7 to 0.5) [line 39]
+
+- Decreased food history requirement (8 different foods down to 4) [line 51]
+
+
+~~~BetterAnimationsCollection (.toml)~~~
+
+- Changed wobble_direction for the Creeper (SIDE to RANDOM) [line 123]
+
+
+~~~Biome Particle Weather (.jar)~~~
+
+- The Biome Particle Weather mod has been added to the modpack. It simply adds unique particle effects to biomes depending on 
+their current weather state
+
+
+~~~Bow Infinity Fix (.jar)~~~
+
+- The Bow Infinity Fix mod has been added to the modpack. It removes the need to have an arrow in your inventory to shoot an 
+Infinity enchanted bow
+
+
+~~~Comforts (server.toml)~~~
+
+- Enabled Hammock use at night [line 14]
+
+
+~~~Charm Of Undying (.jar)~~~
+
+-The Charm Of Undying mod has been added to the modpack. It allows the Totem of Undying to be used in a curios/trinket slot
+
+
+
+
+~~~Deepslate Cutting (.properties)~~~
+
+- Enabled setting that adds regular Deepslate variants of walls, stairs, and slabs [line 3]
+
+
+~~~Drip Sounds (.jar)~~~
+
+- The Drip Sounds mod is being added to the modpack. It adds the dripping sound effect when drops of water/lava hit the ground
+
+
+~~~Savage Ender Dragon (dragonfight.json)~~~
+
+- Increased the speed that End Crystals respawn (1.0 to 0.8 [20%]) [line 8]
+
+- Increased lightning and explosion density (1.0 to 1.25 [25%]) [line 12]
+
+
+~~~Easy Anvils (server.toml)~~~
+
+- Increased Anvil Break Chance (5% to 10%) [line 7]
+
+
+~~~Easy Magic (server.toml)~~~
+
+- Increased reroll_catalyst_cost (5 Lapis to 8) [line 13]
+
+- Increased reroll_experience_points_cost (5 Exp Lvls to 6) [line 23]
+
+
+~~~Ecologics (.json)~~~
+
+- Lowered coconutCrabSpawnChance (0.2[20%] to 0.1[10%]) [line 3]
+
+
+~~~Effective (.json)~~~
+
+- Increased flowingWaterSplashingDesity (50 to 60) [line 9]
+
+- Increased rainRippleDensity (1.0 to 1.2[20%]) [line 10]
+
+
+~~~Enhanced Visuals (.jar)~~~
+
+- Enhanced Visuals is being readded to the modpack. The heartbeat/low health effect was extremely annoying and distracting to 
+gameplay, and a fix hadn't been found at that time. Now however, the mod is clear of these effects and can be demo'd again. 
+Please report and unpleasant effects or hinderances to gameplay! 
+
+
+~~~Enhanced Visuals (client.json)~~~
+
+- Disabled heartbeat effect as well as the blur associated with it [line 335 & line 346]
+
+
+~~~Enhanced Visuals (.json)~~~
+
+- Edited all custom death messages and made them more vulgar c: [lines 4-12]
+
+
+~~~Explosive Enhancement (.jar)~~~
+
+- The Explosive Enhancement mod is being added to the modpack. It adds a detailed explosion particle effect originating from
+creepers, TnT, dynamite, ghast fireballs, or End Crystals
+
+
+~~~Farmer's Delight (.json)~~~
+
+- Lowered Wild Potato spawn rate (75 to 70) [line 36]
+
+- Lowered Wild Onion spawn rate (90 to 60) [line 38]
+
+- Lowered Wild Carrots spawn rate (60 to 50) [line 40]
+
+- Lowered Wild Tomatos spawn rate (55 to 40) [line 42]
+
+- Lowered Wild Rice spawn rate (20 to 15) [line 44]
+
+
+~~~Fast Furnace (.jar)~~~
+
+-The Fast Furnace mod is being added to the modpack. Speeds up how the basic furnace functions when it comes to managing it fuel 
+and the item it is smelting
+
+
+~~~Friends And Foes (.json)~~~
+
+- Lowered Mauler spawn weight in the Badland's biome (16 to 10) [line 17]
+
+- Lowered Mauler spawn weight in the Desert biome (8 to 6) [line 14]
+
+- Lowered Mauler spawn weight in the Savanna biome (32 to 16) [line 20]
+
+- Lowered Moobloom spawn weight in the Flower Forest biome (32 to 26) [line 25]
+
+- Increased Moobloom spawn weight in the Meadow biome (2 to 20) [line 28]
+
+
+~~~Herds Panic (.json5)~~~
+
+- Enabled feature that makes animals seek shelter when its raining [line 4]
+
+- All animals panic when a nearby player damages a passive mob [line 6]
+
+- Lowered panic_distance (16.0 to 13.0) [line 11]
+
+
+~~~Illuminations (.properties)~~~
+
+- Added the LOW plankton particle effect to the Cold Ocean biome [line 36]
+
+- Added the LOW plankton particle effect to the Deep Cold Ocean biome [line 48]
+
+- Added the MEDIUM plankton particle effect to the Deep Lukewarm Ocean biome [line 60]
+
+- Added the LOW plankton particle effect to the Deep Ocean biome [line 64]
+
+- Added the MEDIUM plankton particle effect to Lukewarm Ocean biome [line 128]
+
+- Added the LOW plankton particle effect to the Ocean biome [line 152]
+
+- Added the HIGH plankton particle effect to Warm Ocean biome [line 240]
+
+
+~~~Immersive Weathering (common.json)~~~
+
+- Enabled natural melting of Thin Ice blocks [line 86]
+
+
+~~~JobsAddon (.json5)~~~
+
+- Doubled BuilderXP (1 to 2) [line 19]
+
+- Increased FarmingXP (6 to 15) [line 20]
+
+- Increased FisherXP (? to 15) [line 21]
+
+- Lowered SmitherXP (3 to 2) [line 24]
+
+- Lowered WarriorXP (20 to 16) [line 25]
+
+
+~~~LambdaBetterGrass~~~
+
+- Lowered Grass Quality from "fancy" to "fast" [line 4]
+
+
+~~~LevelZ (.json5)~~~
+
+- Increased the chunk kill cap (15 mobs to 20 mobs) [line 15]
+
+
+~~~LibGui (.json5)~~~
+
+- Enabled Dark Mode for vanilla-styled UI's [line 3]
+
+~~~More Villagers (.json)~~~
+
+- Decreased woodworkerHouseWeight (10 to 8) [line 10]
+
+- Decreased oceanographerHouseWeight (8 to 5) [line 11]
+
+- Decreased floristHouseWeight (8 to 5) [line 12]
+
+
+~~~Mossier Deepslate (.jar)~~~
+
+- The Mossier Deepslate mod is being added to the mod pack. It just allows Deepslate to have the same mossy properties as stone 
+bricks or cobblestone
+
+
+~~~Naturalist (.json)~~~
+
+- Decreased fireflySpawnWeight (8 to 6) [line 2]
+
+- Decreased bluejaySpawnWeight (8 to 5) [line 3]
+
+- Decreased canarySpawnWeight (8 to 5) [line 4]
+
+- Decreased cardinalSpawnWeight (8 to 5) [line 5]
+
+- Decreased robinSpawnWeight (8 to 5) [line 6]
+
+- Decreased snailSpawnWeight (5 to 4) [line 8]
+
+- Decreased coralSnakeSpawnWeight (4 to 2) [line 10]
+
+- Decreased rattlesnakeSpawnWeight (4 to 2) [line 11]
+
+- Decreased bearSpawnWeight (8 to 7) [line 12]
+
+- Decreased deerSpawnWeight (8 to 6) [line 13]
+
+- Decreased rhinoSpawnWeight (15 to 10) [line 14]
+
+- Decreased lionSpawnWeight (8 to 7) [line 15]
+
+- Decreased zebraSpawnWeight (10 to 6) [line 17]
+
+- Decreased giraffeSpawnWeight (10 to 4) [line 18]
+
+- Decreased hippoSpawnWeight (15 to 10) [line 19]
+
+- Decreased vultureSpawnWeight (15 to 8) [line 20]
+
+- Decreased boarSpawnWeight (15 to 12) [line 21]
+
+- Decreased dragonflySpawnWeight (8 to 6) [line 22]
+
+- Decreased catfishSpawnWeight (5 to 4) [line23
+
+- Decreased alligatorSpawnWeight (15 to 12) [line 24]
+
+- Decreased lizardSpawnWeight (15 to 10) [line 26]
+
+- Decreased tortoiseSpawnWeight (6 to 5) [line 27]
+
+- Decreased duckSpawnWeight (15 to 12) [line 28]
+
+
+~~~Nether Portal Spread (.json5)~~~
+
+- Increased delay between blocks converting to nether-based materials (2 seconds to 5 minutes) [line 21]
+
+
+~~~Trashslot (.jar)~~~
+
+- The Trashslot mod has been added to the modpack. It adds a trashslot to the inventory menu.
+
+
+~~~Create Railways (client.toml)~~~
+
+- Increased journeymapObsolescenceCheckTicks to 2 seconds (400 ticks) [line 8]
+
+
+~~~Realistic Bees (.json5)~~~
+
+- Decreased extraBeeSpawnsPerBee (9 to 6[33%]) to improve performance around multiple beehives
+
+
+~~~Right Click Harvest (.jar)
+
+- Added the Ironwood Hoe to RCH's medium tier hoe registry, giving it the same increased harvesting range gold and diamond hoes 
+recieve
+
+
+~~~Visual Overhaul (.jar)~~~
+
+- Overhauls the Brewing Stand, the Furnace, the Blast Furance, the Smoker, and the Jukebox with extremely detailed models

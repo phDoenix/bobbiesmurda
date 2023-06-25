@@ -1,0 +1,31 @@
+{
+	// Count for how many jobs can a player have at a time
+	"employedJobs": 2,
+	// Delay to employ new job
+	"jobChangeTime": 24000,
+	// Reset current job lvl xp when died
+	"resetCurrentJobXP": true,
+	// Only for Devs
+	"devMode": false,
+	// Max level of each job
+	"jobMaxLevel": 100,
+	// XP equation: lvl^exponent * multiplicator + base
+	"jobXPBaseCost": 75,
+	"jobXPCostMultiplicator": 0.75,
+	"jobXPExponent": 2,
+	"jobXPMaxCost": 0,
+	// Default xp per job execution
+	"brewerXP": 35,
+	"builderXP": 2,
+	"farmerXP": 15,
+	"fisherXP": 15,
+	"lumberjackXP": 2,
+	"minerXP": 6,
+	"smitherXP": 3,
+	"warriorXP": 16,
+	"xpMultiplicator": 3,
+	"levelZXPMultiplicator": 3,
+	// Numismatic Overhaul compat lvl * multiplicator
+	"moneyMultiplicator": 10,
+	"allow_max_lvl_progress": false
+}

@@ -1,0 +1,36 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "de.maxhenkel.camerautils.gui.ZoomAnimationScreen": true,
+    "de.maxhenkel.camerautils.gui.ZoomScreen": true,
+    "de.maxhenkel.camerautils.gui.ThirdPersonCameraScreen": true,
+    "de.maxhenkel.camerautils.gui.CinematicCameraScreen": true,
+    "de.maxhenkel.camerautils.gui.ThirdPersonScreen": true,
+    "net.minecraft.class_433": true,
+    "me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "net.minecraft.class_5375": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": false,
+    "mezz.jei.gui.recipes.RecipesGui": false,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.diebuddies.physics.settings.PhysicsSettingsScreen": true,
+    "journeymap.client.ui.dialog.AutoMapConfirmation": true,
+    "journeymap.client.ui.dialog.OptionsManager": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": false,
+    "journeymap.client.ui.dialog.MultiplayerOptionsManager": false,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "journeymap.client.ui.fullscreen.menu.PopupMenu": false,
+    "net.levelz.screen.SkillScreen": false
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "wraith.fwaystones.screen.WaystoneBlockScreen": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true,
+    "com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "net.levelz.screen.SkillScreen": true
+  }
+}
