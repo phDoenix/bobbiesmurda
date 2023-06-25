@@ -1,0 +1,15 @@
+Update 0.1 changes:
+
+-Camera Utils has been removed and replaced with Spyglass Improvements, a mod that adds 
+different overlays to the spyglass depending on your preference, as well as functional additions that fill in 
+Camera Util's main usage, using Z to zoom and using scroll wheel to adjust that zoom while staying true to Minecraft and 
+improving upon one of its already existing items
+
+- First-person Model mod has been removed due to a bug with how bows and crossbows get held, blocking the player's view and 
+essentially ruining ranged combat
+
+- ttttooooppp(Replay Mod) has been removed due to a lack of use/practicality
+
+- Axes Are Weapons has been added as a mod, letting axes acquire all combat enchantments swords have access to, including
+modded additions.
+

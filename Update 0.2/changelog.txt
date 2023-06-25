@@ -1,0 +1,13 @@
+Update 0.2 Changelog
+
+-Updated Enhanced Celestials to 2.1.0.6 (fixes blood moon overspawning supposedly)
+
+-Updated Friends&Foes (Fabric) to 1.8.3 (mauler fixes, tuff golem nav fixes, but the main change is curios support for the 
+totem's added by the mod
+
+-Spyglass Improvement v1.4 mod has been properly implemented and added since being last removed during a mild server crisis (lol)
+
+
+
+  
+
