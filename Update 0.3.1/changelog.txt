@@ -1,0 +1,8 @@
+This update only involves updating the fwaystones config file for proper levels-per-distance configuration
+
+~~~Waystones (fwaystones\config.json5)~~~
+
+- Lowered the XP cost from 1 XP per block teleported to 0.001 XP per block teleported
+
+Add this file to your config\fwaystones directory within the modpack's instance on Curseforge
+
