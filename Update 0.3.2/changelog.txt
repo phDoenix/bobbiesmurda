@@ -1,0 +1,6 @@
+Small update to improving Atlas Map colours
+
+~~~Accurate Maps (.jar)~~~
+
+- Mod that improves the default Minecraft map's default colours to more closely resemble their biomes
+
