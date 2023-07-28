@@ -1,0 +1,156 @@
+Hi meow! New major update incoming!
+
+This update is focused on thinning out mods without much purpose or proper functionality, as well as replacing gameplay systems with more reliable ones.
+
+Alongside these larger changes are mild additions with the intention of improving the Quality of Life in some vanilla minecraft systems as well as 
+filling in consistencies involving some minecraft blocks :)
+
+Please enjoy the update!
+
+$Removals:
+
+~~~More Axolotl Variants(.jar)~~~
+
+- Removed due to growing modlist and need to keep it less than bloated. Adds cool variants, but not an essential mod nor too important as of currently
+
+~~~More Axolotl Variants API(.jar)~~~
+
+- Removed with MAV
+
+~~~More Frogs(.jar)~~~
+
+- Removed due to the same reason as MAV
+
+~~~Spice of Fabric(.jar)~~~
+
+- Removed due to consistent bugs like Golden Apples and Farmer's Delight foods no longer applying their unique status effects
+
+~~~InvMove(.jar)~~~
+
+- Removed due to conflict with a newly added mod ItemSwapper
+
+~~~You're In Grave Danger(.jar)~~~
+
+- Removed You're In Grave Danger due to its lack of configuration
+
+~~~Mossier Deepslate(.jar)~~~
+
+- Removed due to its lack of compatability with Immersive Weathering
+
+
+$Additions:
+
+~~~Fabric Seasons: Extras(.jar)~~~
+
+- Adds blocks based around the Fabric Seasons mod\
+
+~~~Frostiful(.jar)~~~
+
+- Frostiful is a mod that adds combat and survival mechanics, starting by overhauling the Powder Snow freezing mechanic with more ways of freezing 
+and being frozen. It also adds a new structure with the Iceologer mob as its centerpiece!
+
+~~~CarryOn(.jar)~~~
+
+- CarryOn allows you to grab tile entities (like chests) and move them around with both hands
+
+~~~Immersive Paintings(.jar)~~~
+
+- Immersive Paintings gives you an alternative decoration option to the vanilla painting item with advanced options that include the ability to 
+import images to your in-game paintings!
+
+~~~Additional Banners(.jar)~~~
+
+- Adds additional unique banners
+
+~~~Companion(.jar)~~~
+
+- Companion rewrites the way pets/companions are managed and applies a myriad of fixes and reworks
+
+~~~Extended Drawers(.jar)~~~
+
+- Adds a storage block that allows the storage of vast quantities of items
+
+~~~Tom's Simple Storage(.jar)~~~
+
+- Adds blocks that allow the connection and sortation of items through vanilla chests
+
+~~~Diet(.jar)~~~
+
+- Introduces a diet system based on nutrition. Hasn't been editted and configured, so effects may change overtime
+
+~~~ItemSwapper(.jar)~~~
+
+- Adds a configurable hotkey that brings up an additional inventory, letting you swap your currently selected item with another
+
+~~~StartKit(.jar)~~~
+
+- Mod that allows the server host/creator to set starter items gained by typing /starter set
+
+~~~Universal Graves(.jar)~~~
+
+- New grave mod that lets you die and go pick up your items without the risk of them getting destroyed or despawning. But BALANCED MWAHAHAHA!!!
+
+~~~GUI CLock(.jar)~~~
+
+- Mod that shows you the time of day when the Clock item is anywhere in your inventory
+
+~~~HearthAndHome(.jar)~~~
+
+- Mod that adds roof tiles, chimneys, and other homey blocks!
+
+~~~Merchant Markers(.jar)~~~
+
+- Adds markers above a villager's head to indicate what type they may be
+
+~~~Oxidized(.jar)~~~
+
+- Oxidized adds a bunch of new uses for copper with new items and features, as well as AHHH a KILNNN holy SHIT my SAND!
+
+~~~Spiders Produce Webs(.jar)~~~
+
+- Mod that makes it so that spiders leave cobwebs in their wake at intervals
+
+~~~Trade Cycling(.jar)~~~
+
+- Mod that adds an ease of use way of cycling villager trades, instead of resorting to breaking and placing their job block over and over -_-
+
+~~~Variant Barrels(.jar)~~~
+
+- Adds barrels based on the different wood variants
+
+~~~Variant Bookshelves(.jar)~~~
+
+- Adds bookshelves based on the different wood variants
+
+~~~Realistic Fire Spread(.jar)~~~
+
+- Mod that makes it so that entities that catch flame spread the fire with them
+
+~~~Craftable Chainmail Armor(.jar)~~~
+
+- Adds a crafting recipe for chainmail armor and revamps the base chain recipe
+
+~~~Tiny Skeletons(.jar)~~~
+
+- Adds tiny skeleton equivalent to the tiny zombie
+
+$Updates:
+
+~~~TableTop Craft(.jar)~~~
+
+- Updated from 2.0.2 to 2.1.0
+
+$Libraries/Compats:
+
+~~~Resourceful Lib(.jar)~~~
+
+~~~Rhino(.jar)~~~
+
+~~~Thermoo(.jar)~~~
+
+- Temperature Library
+
+~~~ThonkUtil(.jar)~~~
+
+
+
