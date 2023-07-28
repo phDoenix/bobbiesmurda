@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_lantern"
+    },
+    "B": {
+      "item": "minecraft:snow_ball"
+    },
+    "I": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "S": {
+      "item": "createaddition:iron_rod"
+    }
+  },
+  "pattern": [
+    " BP",
+    " SB",
+    "I  "
+  ],
+  "result": {
+    "item": "wizards:staff_frost"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "minecraft:ender_eye"
+    },
+    "S": {
+      "item": "createaddition:gold_rod"
+    }
+  },
+  "pattern": [
+    " AP",
+    " SA",
+    "G  "
+  ],
+  "result": {
+    "item": "wizards:staff_arcane"
+  }
+}
