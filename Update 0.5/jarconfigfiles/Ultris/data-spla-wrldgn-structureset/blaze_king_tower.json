@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "1_splatus:blaze_king_tower",
+        "weight": 2
+      }
+      
+    ],
+    "placement": {
+      "salt": 30084232,
+      "spacing": 720,
+      "separation": 20,
+      "type": "minecraft:random_spread"
+    }
+  }

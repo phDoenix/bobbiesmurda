@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "1_splatus:sanctum",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "salt": 4989812,
+      "spacing": 500,
+      "separation": 19,
+      "type": "minecraft:random_spread"
+    }
+  }

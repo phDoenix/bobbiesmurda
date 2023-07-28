@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    
+    
+    
+   "#minecraft:has_structure/stronghold",
+   "techtonic:alpine_meadow",
+   "techtonic:evergreen_forest",
+   "techtonic:grasslands",
+   "techtonic:old_growth_evergreen_forest",
+   "techtonic:old_growth_snowy_taiga",
+   "techtonic:red_desert",
+
+  {
+      "id": "#terralith:all_terralith_biomes",
+      "required": false
+  }
+
+
+
+
+
+
+
+
+  
+
+
+    
+  ]
+}

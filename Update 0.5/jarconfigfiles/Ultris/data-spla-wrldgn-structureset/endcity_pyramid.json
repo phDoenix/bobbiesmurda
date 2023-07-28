@@ -1,0 +1,16 @@
+{
+    "structures": [
+      {
+        "structure": "1_splatus:endcity_pyramid",
+        "weight": 2
+      }
+      
+    ],
+    "placement": {
+      "spread_type": "triangular",
+    "salt": 10387313,
+    "spacing": 740,
+    "separation": 20,
+      "type": "minecraft:random_spread"
+    }
+  }
