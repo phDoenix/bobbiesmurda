@@ -1,0 +1,277 @@
+
+{
+	"content": [
+
+        {
+            "type": "ITEM",
+            "rarity": "COMMON",
+            "content": "minecraft:paper",
+            "amount": {
+                "min": 16,
+                "max": 64
+            },
+            "unitWorth": 140
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "COMMON",
+            "content": "minecraft:charcoal",
+            "amount": {
+                "min": 12,
+                "max": 64
+            },
+            "unitWorth": 50
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:quartz",
+            "amount": {
+                "min": 32,
+                "max": 128
+            },
+            "unitWorth": 200
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "#minecraft:candles",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 450
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "COMMON",
+            "content": "minecraft:ink_sac",
+            "amount": {
+                "min": 18,
+                "max": 48
+            },
+            "unitWorth": 40
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "RARE",
+            "content": "minecraft:phantom_membrane",
+            "amount": {
+                "min": 4,
+                "max": 24
+            },
+            "unitWorth": 150
+        },
+
+        {
+            "type": "ITEM",
+			"rarity": "UNCOMMON",
+            "content": "minecraft:compass",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5500
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 3,
+                "max": 6
+            },
+            "unitWorth": 4000,
+            "nbt": "{Potion:\"minecraft:swiftness\"}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 2,
+                "max": 4
+            },
+            "unitWorth": 6000,
+            "nbt": "{Potion:\"minecraft:strong_swiftness\"}"
+        },
+
+        {
+            "type": "ITEM",
+            "content": "#minecraft:banners",
+            "amount": {
+                "min": 5,
+                "max": 15
+            },
+            "unitWorth": 450
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "farmersdelight:canvas",
+            "amount": {
+                "min": 5,
+                "max": 20
+            },
+            "unitWorth": 80
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "RARE",
+            "content": "farmersdelight:honey_glazed_ham",
+            "amount": {
+                "min": 1,
+                "max": 10
+            },
+            "unitWorth": 10000
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "frostiful:fur_helmet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 800,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "frostiful:fur_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1200,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "frostiful:fur_leggings",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1000,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "frostiful:fur_boots",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 700,
+            "nbt": "{Damage:0}"
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "RARE",
+            "content": "minecraft:ender_pearl",
+            "amount": {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 2500
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "LEGENDARY",
+            "content": "immersive_aircraft:airship",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 150000
+        },
+
+        {
+            "type": "ITEM",
+            "content": "immersive_aircraft:biplane",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 250000
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "RARE",
+            "content": "vanillatweaks:dynamite",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 5000
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "UNCOMMON",
+            "content": "twilightforest:magic_map_focus",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 8000
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "COMMON",
+            "content": "numismatic_overhaul:bronze_coin",
+            "amount": {
+                "min": 1,
+                "max": 99
+            },
+            "unitWorth": 10
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "COMMON",
+            "content": "numismatic_overhaul:silver_coin",
+            "amount": {
+                "min": 1,
+                "max": 99
+            },
+            "unitWorth": 1000
+        },
+
+        {
+            "type": "ITEM",
+            "rarity": "COMMON",
+            "content": "numismatic_overhaul:gold_coin",
+            "amount": {
+                "min": 1,
+                "max": 99
+            },
+            "unitWorth": 100000
+        }
+
+
+
+
+	]
+
+
+}

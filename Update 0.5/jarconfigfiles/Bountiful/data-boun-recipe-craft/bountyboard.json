@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PLP", "ADA", "PLP"
+	],
+	"key": {
+		"P": {"tag": "#minecraft:planks"},
+		"L": {"tag": "#minecraft:logs"},
+		"A": {"item": "minecraft:paper"},
+		"D": {"item": "minecraft:diamond"}
+	},
+	"result": {
+		"item": "bountiful:bountyboard"
+	}
+}

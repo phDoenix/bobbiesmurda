@@ -1,0 +1,491 @@
+{
+	"content": [
+
+		{
+			"type": "ITEM",
+			"timeMult": 5.0,
+			"rarity": "COMMON",
+			"content": "minecraft:emerald",
+			"amount": {
+				"min": 5,
+				"max": 20
+			},
+			"unitWorth": 300,
+			"weightMult": 0.25
+		},
+
+		{
+			"type": "ITEM",
+			"timeMult": 5.0,
+			"rarity": "COMMON",
+			"content": "#c:stone",
+			"amount": {
+				"min": 32,
+				"max": 192
+			},
+			"unitWorth": 5
+		},
+
+		{
+			"type": "ENTITY",
+			"rarity": "COMMON",
+			"timeMult": 6.0,
+			"content": "minecraft:zombie",
+			"amount": {
+				"min": 6,
+				"max": 20
+			},
+			"unitWorth": 250
+		},
+
+		{
+			"type": "ENTITY",
+			"rarity": "UNCOMMON",
+			"timeMult": 6.0,
+			"content": "minecraft:spider",
+			"amount": {
+				"min": 4,
+				"max": 12
+			},
+			"unitWorth": 400
+		},
+
+		{
+			"type": "ENTITY",
+			"rarity": "COMMON",
+			"timeMult": 6.0,
+			"content": "minecraft:creeper",
+			"amount": {
+				"min": 3,
+				"max": 9
+			},
+			"unitWorth": 400
+		},
+
+		{
+			"type": "ITEM",
+			"timeMult": 5.0,
+			"rarity": "COMMON",
+			"content": "numismatic-overhaul:bronze_coin",
+			"amount": {
+				"min": 1,
+				"max": 99
+			},
+			"unitWorth": 10
+		},
+
+		{
+			"type": "ITEM",
+			"timeMult": 5.0,
+			"rarity": "COMMON",
+			"content": "numismatic-overhaul:silver_coin",
+			"amount": {
+				"min": 1,
+				"max": 99
+			},
+			"unitWorth": 1000
+		},
+
+		{
+			"type": "ITEM",
+			"timeMult": 5.0,
+			"rarity": "COMMON",
+			"content": "numismatic-overhaul:gold_coin",
+			"amount": {
+				"min": 1,
+				"max": 99
+			},
+			"unitWorth": 100000
+		},
+
+		{
+			"type": "ENTITY",
+			"rarity": "EPIC",
+			"timeMult": 7.0,
+			"content": "minecraft:enderman",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 5000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 8.0,
+			"rarity": "LEGENDARY",
+			"content": "rottencreatures:immortal",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 50000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "LEGENDARY",
+			"content": "rottencreatures:dead_beard",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 50000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5.0,
+			"rarity": "EPIC",
+			"content": "rottencreatures:glacial_hunter",
+			"amount": {
+				"min": 2,
+				"max": 3
+			},
+			"unitWorth": 3000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 7.0,
+			"rarity": "EPIC",
+			"content": "rottencreatures:undead_miner",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "RARE",
+			"content": "rottencreatures:swampy",
+			"amount": {
+				"min": 2,
+				"max": 3
+			},
+			"unitWorth": 2500
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5.0,
+			"rarity": "RARE",
+			"content": "rottencreatures:frostbitten",
+			"amount": {
+				"min": 2,
+				"max": 5
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5.0,
+			"rarity": "RARE",
+			"content": "rottencreatures:mummy",
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 7.0,
+			"rarity": "RARE",
+			"content": "rottencreatures:burned",
+			"amount": {
+				"min": 2,
+				"max": 3
+			},
+			"unitWorth": 3000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "EPIC",
+			"content": "friendsandfoes:wildfire",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 10000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "LEGENDARY",
+			"content": "friendsandfoes:illusioner",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 25000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "LEGENDARY",
+			"content": "friendsandfoes:iceologer",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 25000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "RARE",
+			"content": "minecraft:wither_skeleton",
+			"amount": {
+				"min": 3,
+				"max": 9
+			},
+			"unitWorth": 4000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"rarity": "LEGENDARY",
+			"content": "minecraft:warden",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 150000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5.0,
+			"rarity": "EPIC",
+			"content": "minecraft:vindicator",
+			"amount": {
+				"min": 3,
+				"max": 9
+			},
+			"unitWorth": 4000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "UNCOMMON",
+			"content": "minecraft:stray",
+			"amount": {
+				"min": 3,
+				"max": 15
+			},
+			"unitWorth": 550
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "UNCOMMON",
+			"content": "minecraft:husk",
+			"amount": {
+				"min": 6,
+				"max": 18
+			},
+			"unitWorth": 350
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 4.0,
+			"rarity": "COMMON",
+			"content": "minecraft:skeleton",
+			"amount": {
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 450
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5,
+			"rarity": "EPIC",
+			"content": "minecraft:shulker",
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 8000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "EPIC",
+			"content": "minecraft:ravager",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 25000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "LEGENDARY",
+			"content": "minecraft:polar_bear",
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 10000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "UNCOMMON",
+			"content": "minecraft:pillager",
+			"amount": {
+				"min": 4,
+				"max": 12
+			},
+			"unitWorth": 450
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 7.0,
+			"rarity": "EPIC",
+			"content": "minecraft:piglin_brute",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 5000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "RARE",
+			"content": "minecraft:piglin",
+			"amount": {
+				"min": 3,
+				"max": 16
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5.0,
+			"rarity": "EPIC",
+			"content": "minecraft:phantom",
+			"amount": {
+				"min": 2,
+				"max": 8
+			},
+			"unitWorth": 2000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5.0,
+			"rarity": "EPIC",
+			"content": "minecraft:hoglin",
+			"amount": {
+				"min": 2,
+				"max": 5
+			},
+			"unitWorth": 6000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 5.0,
+			"rarity": "EPIC",
+			"content": "minecraft:guardian",
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 6000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "LEGENDARY",
+			"content": "minecraft:ghast",
+			"amount": {
+				"min": 1,
+				"max": 3
+			},
+			"unitWorth": 12500
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "LEGENDARY",
+			"content": "minecraft:elder_guardian",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 50000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 4.0,
+			"rarity": "EPIC",
+			"content": "minecraft:evoker",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 10000
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "COMMON",
+			"content": "minecraft:drowned",
+			"amount": {
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 300
+		},
+
+		{
+			"type": "ENTITY",
+			"timeMult": 6.0,
+			"rarity": "RARE",
+			"content": "minecraft:blaze",
+			"amount": {
+				"min": 2,
+				"max": 10
+			},
+			"unitWorth": 4000
+		}
+	
+
+
+
+	]
+
+
+}
