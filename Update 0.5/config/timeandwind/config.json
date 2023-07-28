@@ -1,0 +1,11 @@
+{
+  "patchSkyAngle": true,
+  "syncWithSystemTime": false,
+  "systemTimePerDimensions": false,
+  "enableNightSkipAcceleration": true,
+  "accelerationSpeed": 40,
+  "enableThreshold": true,
+  "thresholdPercentage": 25,
+  "flatAcceleration": false,
+  "config_ver": 2
+}

@@ -1,0 +1,191 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fast"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = true
+				player = true
+				chest_minecart = true
+				tnt_minecart = true
+				area_effect_cloud = true
+				item_frame = true
+				armor_stand = true
+				zombie = true
+				item = true
+				glow_squid = true
+				bat = true
+				skeleton = true
+				creeper = true
+				enderman = true
+				chicken = true
+				spider = true
+				husk = true
+				zombie_villager = true
+				squid = true
+				iron_golem = true
+				drowned = true
+				pillager = true
+				witch = true
+				pig = true
+				donkey = true
+				tropical_fish = true
+				rabbit = true
+				villager = true
+				cat = true
+				horse = true
+				arrow = true
+				slime = true
+				cave_spider = true
+				bee = true
+				cow = true
+				sheep = true
+				turtle = true
+				salmon = true
+				cod = true
+				pufferfish = true
+				parrot = true
+				experience_orb = true
+				ocelot = true
+				axolotl = true
+				lightning_bolt = true
+				wolf = true
+				phantom = true
+				dolphin = true
+				minecart = true
+				stray = true
+				vex = true
+				snowball = true
+				painting = true
+				allay = true
+				goat = true
+				wither_skeleton = true
+				frog = true
+				fox = true
+				guardian = true
+				llama = true
+				firework_rocket = true
+				eye_of_ender = true
+				silverfish = true
+				wandering_trader = true
+				vindicator = true
+				zombie_horse = true
+				ravager = true
+				snow_golem = true
+				polar_bear = true
+				panda = true
+				trident = true
+				experience_bottle = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				mauler = true
+				copper_golem = true
+				glare = true
+				moobloom = true
+				iceologer = true
+
+			[light_sources.settings.entities.naturalist]
+				vulture = true
+				boar = true
+				duck = true
+				lion = true
+				rhino = true
+				cardinal = true
+				elephant = true
+				zebra = true
+				rattlesnake = true
+				snail = true
+				lizard = true
+				tortoise = true
+				giraffe = true
+				coral_snake = true
+				bass = true
+				firefly = true
+				butterfly = true
+				snake = true
+				bear = true
+				robin = true
+				canary = true
+				deer = true
+				bluejay = true
+				dragonfly = true
+				alligator = true
+				catfish = true
+
+			[light_sources.settings.entities.rottencreatures]
+				undead_miner = true
+				mummy = true
+				scarab = true
+				frostbitten = true
+				glacial_hunter = true
+				hunter_wolf = true
+				dead_beard = true
+				immortal = true
+				swampy = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_skeleton = true
+				baby_stray = true
+
+			[light_sources.settings.entities.whisperwoods]
+				zotzpyre = true
+				wisp = true
+				hidebehind = true
+				moth = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				biplane = true
+				cargo_airship = true
+
+			[light_sources.settings.entities.ecologics]
+				camel = true
+				penguin = true
+				squirrel = true
+				coconut_crab = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
+			[light_sources.settings.entities.twilightforest]
+				tiny_bird = true
+				dwarf_rabbit = true
+				bighorn_sheep = true
+				boar = true
+				deer = true
+				raven = true
+				swarm_spider = true
+				kobold = true
+				redcap = true
+				skeleton_druid = true
+				king_spider = true
+				squirrel = true
+
+			[light_sources.settings.entities.valkyrienskies]
+				ship_mounting_entity = true
+
+			[light_sources.settings.entities.frostiful]
+				chillager = true
+				frostologer = true
+				frost_tipped_arrow = true
+
+			[light_sources.settings.entities.spell_engine]
+				spell_projectile = true
+

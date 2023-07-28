@@ -1,0 +1,49 @@
+[content]
+enableCraftingPad = true
+enableDynamite = true
+enableSlimeBucket = true
+enableFriedEgg = false
+enableStorageBlocks = true
+enablePedestal = true
+dynamiteCooldown = 80
+dynamiteExplosionPower = 3
+[enchanting]
+enableBlazing = true
+enableHops = true
+enableNimble = true
+enableSiphon = true
+enableVeteran = true
+enableVigor = true
+enableHoming = true
+blazingTreasureOnly = true
+hopsTreasureOnly = false
+nimbleTreasureOnly = false
+siphonTreasureOnly = true
+veteranTreasureOnly = false
+vigorTreasureOnly = true
+homingTreasureOnly = true
+[loot]
+batLeatherDropChance = 1.0
+namedMobsDropNameTag = true
+[tweaks]
+enableArmorStandSwapping = true
+itemFrameRotateBackwards = true
+babyZombieBurnInDaylight = true
+creeperBurnInDaylight = true
+shearOffNameTag = true
+hoeActsAsSickle = false
+enableSignEditing = true
+tntIgnition = true
+enableSilkSpawner = false
+[world]
+realisticRelationship = true
+disableLavaPockets = false
+selfPlanting = true
+selfPlantingBlackList = []
+selfPlantingInterval = 100
+[recipe]
+betterChestRecipe = true
+betterRepeater = true
+betterTrappedChestRecipe = true
+woolToString = true
+nameTag = false
